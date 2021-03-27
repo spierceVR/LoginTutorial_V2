@@ -4,4 +4,4 @@
 * Client side of a C++ Login system
 
 * Requires a MySQL database and some php scripts for storing username/password combos to make requests to.
-** I used xampp for this, (these are the required php scripts)[https://github.com/spierceVR/LoginTutorial_V2/tree/master/php_backend/htdocs/files]
+  * I used xampp for this, [these are the required php scripts](https://github.com/spierceVR/LoginTutorial_V2/tree/master/php_backend/htdocs/files)
